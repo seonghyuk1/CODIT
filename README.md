@@ -34,13 +34,14 @@
 ## 실행 방법
 
 1. 로컬에 Clone
-2. 패키지 설치 (npm i)
-3. 프론트엔드 실행 : npm start
-4. 서버 실행 : cd server -> npm i -> node index.js
+2. ls (codit 디렉토리 확인) -> cd codit (소문자)
+3. 패키지 설치 (npm i)
+4. 프론트엔드 실행 : npm start
+5. 서버 실행 : cd server -> npm i -> node index.js
 
-5. 필요 의안과 의안원문 업로드 (파일 선택버튼)
-6. 파일 업로드 실행
-7. 파싱 결과 확인
+6. 필요 의안과 의안원문 업로드 (파일 선택버튼)
+7. 파일 업로드 실행
+8. 파싱 결과 확인
 
 ---
 
